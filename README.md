@@ -1,10 +1,6 @@
 # Hire.me
 Um pequeno projeto da Bemobi para testar habilidades como programador.
 
-## Instruções Gerais
-
-
-
 ## Projeto
 
 O projeto consiste em reproduzir um encurtador de URL's (apenas sua API), simples e com poucas funções.
